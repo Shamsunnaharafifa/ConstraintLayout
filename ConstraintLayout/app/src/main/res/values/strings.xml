@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="upload">Upload</string>
+</resources>
